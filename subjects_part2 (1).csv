@@ -1,0 +1,31 @@
+Subject_ID,Subject_Name,Semester,Credits,Faculty_ID
+SUB001,Python Programming,5,2,F001
+SUB002,Machine Learning,5,4,F002
+SUB003,Data Visualization,3,4,F003
+SUB004,Statistics,3,2,F004
+SUB005,SQL,6,5,F005
+SUB006,Deep Learning,1,2,F006
+SUB007,Artificial Intelligence,3,3,F007
+SUB008,Data Mining,6,2,F008
+SUB009,Cloud Computing,4,2,F009
+SUB010,Natural Language Processing,4,5,F010
+SUB011,Big Data,4,3,F011
+SUB012,R Programming,5,2,F012
+SUB013,Data Structures,1,4,F013
+SUB014,Computer Vision,1,4,F014
+SUB015,Business Analytics,3,2,F015
+SUB016,Probability,2,5,F016
+SUB017,Linear Algebra,2,2,F017
+SUB018,Database Systems,5,4,F018
+SUB019,Data Warehousing,4,5,F019
+SUB020,Operating Systems,2,4,F020
+SUB021,Software Engineering,4,2,F021
+SUB022,Web Development,3,2,F022
+SUB023,Data Ethics,1,2,F023
+SUB024,Time Series,5,4,F024
+SUB025,Reinforcement Learning,6,5,F025
+SUB026,Generative AI,2,2,F026
+SUB027,Data Security,1,5,F027
+SUB028,IoT Analytics,1,5,F028
+SUB029,Distributed Systems,3,4,F029
+SUB030,Project Management,4,3,F030
